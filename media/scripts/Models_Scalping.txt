@@ -1,0 +1,8 @@
+module Base
+{	
+	model Scalp_Ground
+	{
+		mesh = WorldItems/Scalp_ground,
+		scale = 1,
+	}
+}

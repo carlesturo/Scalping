@@ -1,0 +1,6 @@
+ContextMenu_ES = {
+	ContextMenu_ScalpingTheCorpse = "Desollar el cuero cabelludo del cadáver",
+	ContextMenu_Description_ScalpingTheCorpseToObtainTheTrophy = "Desollar el cuero cabelludo del cadáver para obtener el trofeo",
+	ContextMenu_Description_ItHasAlreadyBeenDone = "Ya se ha hecho",
+	ContextMenu_Description_RequiresASharpTool = "Requiere una herramienta afilada",
+}

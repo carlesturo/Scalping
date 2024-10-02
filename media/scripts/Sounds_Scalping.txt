@@ -1,0 +1,8 @@
+module Base
+{
+    sound Chopup
+	{
+		category = player, loop = false, is3D = true,
+		clip { file = media/sound/chopup.mp3, distanceMax = 10, volume = 2f }
+	}
+}

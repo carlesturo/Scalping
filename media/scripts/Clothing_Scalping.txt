@@ -1,0 +1,18 @@
+module Base
+{
+	item Scalp
+    {
+        DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = Scalp (Human Trophy),
+		ClothingItem = Scalp_White,
+		BodyLocation = Hat,
+		BloodLocation = Head,
+        Icon = ScalpGeneric,
+		CanHaveHoles = false,
+		ChanceToFall = 99,
+        Insulation = 0.2,
+		Weight = 0.1,
+        WorldStaticModel = Scalp_ground,
+    }
+}

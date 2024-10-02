@@ -1,0 +1,5 @@
+IGUI_ES = {
+	IGUI_ZombieTrophyOf = "Cuero cabelludo de %1 (Trofeo zombi)",
+	IGUI_ZombieTrophy = "Cuero cabelludo (Trofeo zombi)",
+	IGUI_HumanTrophyOf = "Cuero cabelludo de %1 (Trofeo humano)",
+}

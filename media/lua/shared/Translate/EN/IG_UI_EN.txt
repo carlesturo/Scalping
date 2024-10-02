@@ -1,0 +1,5 @@
+IGUI_EN = {
+	IGUI_ZombieTrophyOf = "%1's Scalp (Zombie Trophy)",
+	IGUI_ZombieTrophy = "Scalp (Zombie Trophy)",
+	IGUI_HumanTrophyOf = "%1's Scalp (Human Trophy)",
+}

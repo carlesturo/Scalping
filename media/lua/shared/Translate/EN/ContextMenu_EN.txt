@@ -1,0 +1,6 @@
+ContextMenu_EN = {
+	ContextMenu_ScalpingTheCorpse = "Scalping the corpse",
+	ContextMenu_Description_ScalpingTheCorpseToObtainTheTrophy = "Scalping the corpse to obtain the trophy",
+	ContextMenu_Description_ItHasAlreadyBeenDone = "It has already been done",
+	ContextMenu_Description_RequiresASharpTool = "Requires a sharp tool",
+}

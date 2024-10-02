@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<fileGuidTable>
+
+	<!--Hats-->
+	<files>
+		<path>media/clothing/clothingItems/Scalp_White.xml</path>
+		<guid>a5074500-8081-406a-ae0f-fe2eabe4b91b</guid>
+	</files>
+		
+</fileGuidTable>
