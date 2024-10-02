@@ -9,7 +9,7 @@ local function UpdateCorpseServer(player, args)
         corpse:getModData().hasBeenScalped = true
         corpse:getHumanVisual():setHairModel("Bald")
         
-		local corpseContainer = self.corpse:getContainer()
+		local corpseContainer = corpse:getContainer()
 		local patternsPrimary, patternsSecondary
 
 		if self.corpse:isZombie() then
